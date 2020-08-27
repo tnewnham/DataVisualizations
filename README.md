@@ -33,7 +33,7 @@ This is a heat map that shows the correlations between all the variables in a da
 This is a Pair Plot that shows multiple kinds of plots in a single image. This particular plots shows the regressions lines between 2 variables organized by a category and the same variables distribution. These kinds of plots are great for comparing multiple metrics and variables quickly and easily.
 
 [Grid Plots](gridPlots.ipynb)
-![Insurance Pair Plot](public/InsurancePairplot.jpg)
+![Insurance Pair Plot](public/insurancePairplot.jpg)
 
 
 
